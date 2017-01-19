@@ -1,0 +1,32 @@
+article {
+    margin-top: 0px;
+    margin-right: 25px;
+    margin-left: 500px;
+    margin-bottom: 5px;
+}
+h1 {
+    color: #057e8c;
+    font-size: 50px;
+    font-family: helvetica;
+}
+html {
+    background-color: #eaeaea;
+}
+#caption {
+    padding: 0px 5px 5px 5px;
+    font-family: helvetica;
+    color: #057e8c;
+}
+p {
+    padding: 0px 5px 20px 5px;
+    font-family: helvetica;
+    color: #057e8c;
+}
+.horizontal {
+    width: 900px;
+    height: 600px;
+}
+.vertical {
+    width: 600px;
+    height: 900px;
+}
